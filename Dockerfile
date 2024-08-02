@@ -1,6 +1,6 @@
 FROM node:16
-RUN git clone https://github.com/Bladeh3x/BLADE-MD /root/BLADE-MD
-WORKDIR /root/BLADE-MD/
+RUN git clone https://github.com/Bladeh3x/BLADE-MD /root/Bladeh3x
+WORKDIR /root/Bladeh3x/
 RUN npm install npm@latest
 RUN npm install
 EXPOSE 8000
