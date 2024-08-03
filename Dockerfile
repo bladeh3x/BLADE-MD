@@ -7,7 +7,7 @@ WORKDIR /root/bladeh3x
 RUN npm install
 
 # Add additional Steps To Run...
-EXPOSE 3000
+EXPOSE 5000
 CMD ["npm","start" ]
 
 
