@@ -13,7 +13,7 @@
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^9.1.4",
-    "@swhiskeysockets/baileys: "github:Luffy2ndAccount/Baileys",
+    "@whiskeysockets/baileys: "github:Luffy2ndAccount/Baileys",
     "aptoide-scraper":"^1.0.1",
     "@shineiichijo/marika": "^2.0.3",
     "anime-character-random": "latest",
